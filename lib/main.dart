@@ -7,7 +7,7 @@ import 'features/posts/presentation/bloc/add_delete_update_post/add_delete_updat
 import 'features/posts/presentation/bloc/posts/posts_bloc.dart';
 import 'features/posts/presentation/pages/posts_page.dart';
 import 'injection_container.dart' as di;
-
+//neffdfdfddfdfd
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
    Bloc.observer = MyBlocObserver();
